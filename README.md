@@ -7,9 +7,9 @@
   
 - 🌱 I’m currently learning **ReactJS to build fast web user interfaces and exploring Jetpack Compose for building native Android UIs.**
 
-- 📫 How to reach me **luiserapicos18@gmail.com**
-
 - 💼 Professional Opportunities: I am looking for challenges and opportunities that make me feel on a continuous learning.
+  
+- 📫 How to reach me **luiserapicos18@gmail.com**
 
 <p align="left">
 </p>
