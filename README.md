@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luís.</h1>
 <h3 align="center">I am a Master's degree student in Software Engineering with a special interest in web and android development. I like to explore new technologies and, recently, I've been learning about ReactJS and JetpackCompose, while creating projects for both personal and academic interests.</h3>
 
-- 🔭 I’m currently working on a personal project [TimeToDo. A simple project to manage tasks, built in Kotlin(backend), MongoDB(DB) and ReactJS(frontend).](https://github.com/LuisSerapicos/TimeToDo)
+- 🔭 I’m currently working on a personal project [TimeToDo.] A simple project to manage tasks, built in Kotlin(backend), MongoDB(DB) and ReactJS(frontend).(https://github.com/LuisSerapicos/TimeToDo)
 
 - 🌱 I’m currently learning **ReactJS to build fast web user interfaces and exploring Jetpack Compose for building native Android UIs.**
 
-- 👯 While studying, I've been collaborating on group projects, in my Master's degree, such as: [ACME and HappiBee](https://github.com/LuisSerapicos/ARQSOFT2023 https://github.com/LuisSerapicos/ENGREQ23)
+- 👯 While studying, I've been collaborating on group projects, in my Master's degree, such as: [ACME and HappiBee.](https://github.com/LuisSerapicos/ARQSOFT2023 / https://github.com/LuisSerapicos/ENGREQ23)
 
 - 📫 How to reach me **luiserapicos18@gmail.com**
 
