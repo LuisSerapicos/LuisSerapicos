@@ -9,7 +9,8 @@
 
 - 💼 Professional Opportunities: I am looking for challenges and opportunities that make me feel on a continuous learning.
   
-- 📫 How to reach me **luiserapicos18@gmail.com**
+- 📫 How to reach me: <a href="mailto:luiserapicos18@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt=""/></a> &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/luis-serapicos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/></a>
 
 <p align="left">
 </p>
